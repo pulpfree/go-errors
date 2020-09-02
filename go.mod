@@ -1,3 +1,3 @@
-module github.com/pulpfree/pkgerrors
+module github.com/pulpfree/go-errors
 
 go 1.15
